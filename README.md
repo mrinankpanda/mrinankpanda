@@ -7,9 +7,15 @@
 </div>
 
 ## 🚀 About Me
-Currently pursuing Computer Engineering & Computer Sciences at University of Wisconsin-Madison (Dec 2027). I'm most passionate about AI & Machine Learning, especially artificial vision and machine learning systems that can make a real impact!
+I’m a dedicated Computer Engineering & Computer Sciences student at the University of Wisconsin–Madison (expected graduation Dec. 2027), deeply passionate about AI and Machine Learning — especially artificial vision and building ML systems that make a real-world impact.
 
-When I'm not building safety-critical rocket avionics or optimizing enterprise data pipelines, you'll find me:
+**🔧 Highlights from my journey in tech so far:**
+- Developed embedded firmware for rocket avionics, enhancing real-time control and safety
+- Built and maintained SQL + Snowflake pipelines powering critical business operations
+- Trained YOLO-based object detection models for autonomous vehicle research
+- Conducted space sustainability research under a Harvard PhD mentor, exploring rocket emission impacts
+
+**When I'm not building safety-critical rocket avionics or optimizing enterprise data pipelines, you'll find me:**
 
 - ⚽ Playing soccer with friends (my favorite way to unwind!)
 - 🛍️ Thrifting for unique fashion finds and exploring new styles
@@ -19,6 +25,8 @@ When I'm not building safety-critical rocket avionics or optimizing enterprise d
 - 👨‍👩‍👧‍👦 Spending quality time with family — they're my foundation, my biggest support, and my daily inspiration
 
 I'm deeply proud of my ଓଡ଼ିଆ (Odia) heritage 🇮🇳 and love sharing the incredible food, vibrant traditions, and rich culture of Odisha with friends. Whether I'm playing soccer to unwind, thrifting for fashion gems, or discovering amazing local eats, I'm always looking for new ways to connect with people and explore the world around me. Family is my anchor, and I cherish every moment spent with my parents—our shared values and roots drive everything I do. I find joy and inspiration in nature, travel, and meaningful conversations, and I stay actively involved in my communities through the Indian Student Association (ISA) and local volunteering. For me, life is about learning, building, and giving back—always with curiosity, creativity, and heart.
+
+**Feel free to reach out! I’m always excited to learn, collaborate, and build something meaningful together.**
 
 ---
 
@@ -48,13 +56,13 @@ I'm deeply proud of my ଓଡ଼ିଆ (Odia) heritage 🇮🇳 and love sharing
 
 ---
 
-## 🛠️ What I'm Working On
-
-### 🚀 **Avionics Engineer** @ Wisconsin Space Program
-Building **safety-critical Engine Control Units (ECUs)** for reusable liquid-powered rockets! Working with **real-time embedded systems**, **fault-tolerant design**, and **aerospace safety standards**. I love the intersection of cutting-edge engineering and space exploration! 🌌
+## 🛠️ What I'm Doing Right Now:
 
 ### 💼 **Data Engineering Intern** @ West Bend Insurance
 Developing **enterprise-scale data pipelines** with **Snowflake**, building **custom linting frameworks** adopted across multiple teams, and implementing **CI/CD pipelines** for mission-critical business operations. It's amazing how data can drive better decision-making!
+
+### 🚀 **Avionics Engineer** @ Wisconsin Space Program
+Building **safety-critical Engine Control Units (ECUs)** for reusable liquid-powered rockets! Working with **real-time embedded systems**, **fault-tolerant design**, and **aerospace safety standards**. I love the intersection of cutting-edge engineering and space exploration! 🌌
 
 ---
 
@@ -82,20 +90,6 @@ Developing **enterprise-scale data pipelines** with **Snowflake**, building **cu
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrinankpanda&theme=react-dark&hide_border=true&area=true" />
 </p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrinankpanda/mrinankpanda/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrinankpanda/mrinankpanda/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mrinankpanda/mrinankpanda/output/github-snake.svg" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrinankpanda/mrinankpanda/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrinankpanda/mrinankpanda/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mrinankpanda/mrinankpanda/output/github-snake.svg" />
-  </picture>
-</p>
 
 ---
 
@@ -113,12 +107,6 @@ Developing **enterprise-scale data pipelines** with **Snowflake**, building **cu
 </p>
 
 ---
-
-🔹 *Passionate about building systems that matter - from rockets to enterprise data infrastructure!*
-🚀 *Always excited to collaborate on AI/ML projects, computer vision, space technology, and scalable data systems.*
-🌟 *Love connecting with fellow engineers, soccer enthusiasts, food lovers, and anyone passionate about making a positive impact!*
-
-**Fun fact:** Ask me about the best ଓଡ଼ିଆ (Odia) dishes or my latest thrift finds! 🍛👕
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrinankpanda&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
