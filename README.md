@@ -7,7 +7,7 @@
 </div>
 
 ## 🚀 About Me
-I’m a dedicated Computer Engineering & Computer Sciences student at the University of Wisconsin–Madison (expected graduation Dec. 2027), deeply passionate about AI and Machine Learning — especially artificial vision and building ML systems that make a real-world impact.
+I’m a dedicated Computer Engineering & Computer Sciences student at the University of Wisconsin–Madison, deeply passionate about AI and Machine Learning — especially artificial vision and building ML systems that make a real-world impact.
 
 **🔧 Highlights from my journey in tech so far:**
 - Developed embedded firmware for rocket avionics, enhancing real-time control and safety
@@ -82,7 +82,7 @@ Building **safety-critical Engine Control Units (ECUs)** for reusable liquid-pow
 
 ### 🔹 Autonomous Vehicle Detection
 *🚗 **AI safety-critical object detection system** using neural networks for autonomous vehicles, achieving **95% training accuracy** and **72% test accuracy** on high-resolution images. Led cross-functional team development while considering ethical AI safety implications.*
-> **Tech:** Python, TensorFlow, Computer Vision, Neural Networks, Safety-Critical AI, Team Leadership
+> **Tech:** Python, YOLO, NumPy, Pandas, Computer Vision, Neural Networks, Safety-Critical AI, Team Leadership
 
 ---
 
