@@ -34,7 +34,7 @@ I'm deeply proud of my ଓଡ଼ିଆ (Odia) heritage 🇮🇳 and love sharing
 
 ### **Programming Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,bash" />
 </p>
 
 ### **Frameworks & Libraries**
