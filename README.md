@@ -10,12 +10,18 @@
 I’m a dedicated Computer Engineering & Computer Sciences student at the University of Wisconsin–Madison, deeply passionate about AI and Machine Learning — especially artificial vision and building ML systems that make a real-world impact.
 
 **🔧 Highlights from my journey in tech so far:**
-- Developed embedded firmware for rocket avionics, enhancing real-time control and safety
-- Built and maintained SQL + Snowflake pipelines powering critical business operations
-- Trained YOLO-based object detection models for autonomous vehicle research
-- Conducted space sustainability research under a Harvard PhD mentor, exploring rocket emission impacts
 
-**When I'm not building safety-critical rocket avionics or optimizing enterprise data pipelines, you'll find me:**
+- 👁️ IRIS @ COMPUTE LAB - implementing neuromorphic vision algorithms in C on a Xilinx Zynq UltraScale+ MPSoC (AUP ZU3 FPGA), replicating retinal circuits for motion and looming detection. Designing and testing FPGA-based logic for real-time drone vision acceleration, integrating low-level embedded programming with biologically inspired computer vision models to enable low-power, event-driven perception. 
+
+- 📊 Data Engineering Intern @ West Bend Insurance - migrated 130+ years of policy data to Snowflake, built automated QA pipelines, and boosted ML prediction accuracy by 50% using XGBoost on 134k+ records. 
+
+- 🚀 Avionics Engineer @ Wisconsin Space Program - designed a safety-critical Engine Control Unit (ECU) for a reusable liquid rocket, deployed fault-tolerant embedded C++ firmware, and led system integration across 90+ members. 
+
+- 🚘 Research Intern @ Inspirit AI - developed and verified a neural-network-based vehicle detection model for autonomous perception under a Harvard PhD mentor, achieving 95% training and 72% test accuracy.
+
+- 📧 emailgist (Personal Project) - built an AI email summarization platform fine-tuned on 500K+ business emails using BART/T5, with a full-stack deployment via FastAPI + React, reducing email length by ~60% while preserving key action items. 
+
+**When I'm not building, you'll find me:**
 
 - ⚽ Playing soccer with friends (my favorite way to unwind!)
 - 🛍️ Thrifting for unique fashion finds and exploring new styles
@@ -56,34 +62,15 @@ I'm deeply proud of my ଓଡ଼ିଆ (Odia) heritage 🇮🇳 and love sharing
 
 ---
 
-## 🛠️ What I'm Doing Right Now:
-
-### 💼 **Data Engineering Intern** @ West Bend Insurance
-Developing **enterprise-scale data pipelines** with **Snowflake**, building **custom linting frameworks** adopted across multiple teams, and implementing **CI/CD pipelines** for mission-critical business operations. It's amazing how data can drive better decision-making!
-
-### 🚀 **Avionics Engineer** @ Wisconsin Space Program
-Building **safety-critical Engine Control Units (ECUs)** for reusable liquid-powered rockets! Working with **real-time embedded systems**, **fault-tolerant design**, and **aerospace safety standards**. I love the intersection of cutting-edge engineering and space exploration! 🌌
-
----
-
 ## 🚀 Featured Projects
 
-### [🔹 EmailGist](https://github.com/mrinankpanda/emailgist)
+### [🔹 emailgist](https://github.com/mrinankpanda/emailgist)
 *📧 An **AI-powered email summarization platform** that processes lengthy business emails and extracts key information, reducing reading time for busy professionals.*
 > **Tech:** Python, React, FastAPI, HuggingFace Transformers (BART/T5), spaCy NER, Vercel, Render
 
-### 🔹 Rocket Avionics System
-*🚀 **Safety-critical real-time ECU** for liquid-powered rocket engine control, featuring **fault-tolerant embedded architecture** and **real-time firmware** for engine throttling and ignition sequencing.*
-> **Tech:** C/C++, Embedded Systems, Real-time Operating Systems, Hardware Integration
-
-### 🔹 Light Pollution Sensor
-*🌟 Developing a **cost-effective novel light sensor** for measuring light pollution with a **full-stack web interface** to make environmental data accessible to researchers and communities.*
-> **Tech:** Embedded Systems, IoT Sensors, Full-Stack Development, Environmental Data Analysis
-
-### 🔹 Autonomous Vehicle Detection
-*🚗 **AI safety-critical object detection system** using neural networks for autonomous vehicles, achieving **95% training accuracy** and **72% test accuracy** on high-resolution images. Led cross-functional team development while considering ethical AI safety implications.*
-> **Tech:** Python, YOLO, NumPy, Pandas, Computer Vision, Neural Networks, Safety-Critical AI, Team Leadership
-
+### [🔹 Embedded Systems Battleship Game](https://github.com/mrinankpanda/embedbattleship)
+* Designed and implemented a two-player embedded Battleship game on **networked microcontrollers** with **IMU/joystick-driven real-time gameplay**, **coordinated peripheral control**, and a **robust packet-based IPC protocol (checksums, ACKs, retransmission)** enabling synchronized, fault-tolerant turn-based play.
+> **Tech:** C, FreeRTOS, ARM Cortex-M, SPI, Real Time System Design
 ---
 
 ## 📊 GitHub Activity Graph
