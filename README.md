@@ -3,23 +3,23 @@
     Hi there, I'm Mrinank Panda 
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave">
   </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Enthusiast+🤖;Computer+Engineering+%7C+Artificial+Vision;Avionics+Engineer+%7C+Rocket+Technology+🚀;Let's+Connect+and+Build+Together!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Embedded+Software+Engineering+Intern+💻;ROS%2FVision+Team+Lead+🤖;Computer+Engineering+%7C+Embedded+Systems;Let's+Connect+and+Build+Together!" alt="Typing SVG">
 </div>
 
 ## 🚀 About Me
-I’m a dedicated Computer Engineering & Computer Sciences student at the University of Wisconsin–Madison, deeply passionate about AI and Machine Learning — especially artificial vision and building ML systems that make a real-world impact.
+I’m a Computer Engineering & Computer Sciences student at the University of Wisconsin–Madison (Dean's Honor List), deeply passionate about embedded systems, robotics, computer vision, and building high-impact edge ML architecture.
 
 **🔧 Highlights from my journey in tech so far:**
 
-- 👁️ IRIS @ COMPUTE LAB - implementing neuromorphic vision algorithms in C on a Xilinx Zynq UltraScale+ MPSoC (AUP ZU3 FPGA), replicating retinal circuits for motion and looming detection. Designing and testing FPGA-based logic for real-time drone vision acceleration, integrating low-level embedded programming with biologically inspired computer vision models to enable low-power, event-driven perception. 
+- 🛡️ **Embedded Software Engineering Intern @ Carnegie Mellon University, SEI** - Developing embedded software in C for mission-critical DoD systems subject to strict national security requirements.
 
-- 📊 Data Engineering Intern @ West Bend Insurance - migrated 130+ years of policy data to Snowflake, built automated QA pipelines, and boosted ML prediction accuracy by 50% using XGBoost on 134k+ records. 
+- 🤖 **ROS/Vision Team Lead @ WiscoHumanoids** - Leading a 12-person team engineering perception pipelines. Formulated a Contact-Bias IEKF on SE(3) for legged odometry on the Unitree G1, achieving X/Y position convergence within ~2000 timesteps in MuJoCo.
 
-- 🚀 Avionics Engineer @ Wisconsin Space Program - designed a safety-critical Engine Control Unit (ECU) for a reusable liquid rocket, deployed fault-tolerant embedded C++ firmware, and led system integration across 90+ members. 
+- 👁️ **Research Assistant @ UW-Madison ECE** - Constructed a 4-camera MIPI CSI-2 live video pipeline on a Xilinx Zynq UltraScale+ MPSoC in bare-metal C. Implemented real-time looming detection using ARM NEON SIMD intrinsics and crafted a hardware-level Gamma LUT color correction pipeline.
 
-- 🚘 Research Intern @ Inspirit AI - developed and verified a neural-network-based vehicle detection model for autonomous perception under a Harvard PhD mentor, achieving 95% training and 72% test accuracy.
+- 🚀 **Avionics Engineer @ Wisconsin Space Program** - Designed an embedded ECU for a liquid-propellant rocket engine using an Arduino Mega 2560, deployed fault-tolerant embedded C++ firmware, and coordinated architecture across a 90+ member team.
 
-- 📧 emailgist (Personal Project) - built an AI email summarization platform fine-tuned on 500K+ business emails using BART/T5, with a full-stack deployment via FastAPI + React, reducing email length by ~60% while preserving key action items. 
+- 📊 **Data Engineering Intern @ West Bend Insurance** - Migrated 130+ years of policy data to Snowflake and boosted claim severity prediction model accuracy by 50% using XGBoost on 134k+ records.
 
 **When I'm not building, you'll find me:**
 
@@ -38,39 +38,32 @@ I'm deeply proud of my ଓଡ଼ିଆ (Odia) heritage 🇮🇳 and love sharing
 
 ## ⚡ Tech Skills
 
-### **Programming Languages**
+### **Languages & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,bash,git,linux" />
 </p>
 
-### **Frameworks & Libraries**
+### **Frameworks, Machine Learning & Cloud**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,tensorflow,pytorch,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,fastapi,aws,gcp" />
 </p>
 
-### **Tools & Technologies**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,azure" />
-</p>
-
-### **Databases & Cloud**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,gcp,azure,firebase" />
-</p>
-
-**Additional Tools:** SQL, Snowflake, GitHub Actions, Azure DevOps, Databricks, Datagaps
+**Additional Architecture & Hardware Ecosystems:** SystemVerilog, SQL, FreeRTOS, ARM Cortex-M/A53, Altium Designer, Quartus Prime, Questa, Xilinx Vivado/Zynq MPSoC, ROS2, Databricks, XGBoost
 
 ---
 
 ## 🚀 Featured Projects
 
-### [🔹 emailgist](https://github.com/mrinankpanda/emailgist)
-*📧 An **AI-powered email summarization platform** that processes lengthy business emails and extracts key information, reducing reading time for busy professionals.*
-> **Tech:** Python, React, FastAPI, HuggingFace Transformers (BART/T5), spaCy NER, Vercel, Render
+### [🔹 Networked Battleship Game](https://github.com/mrinankpanda/embedbattleship)
+*Engineered a 7-state game FSM on a PSoC6 microcontroller, coordinating FreeRTOS tasks and semaphore-protected SPI (1 MHz) and I²C (100 kHz) peripherals to enable deterministic real-time turn-based gameplay.*
+* Utilized a 10-byte fault-tolerant UART protocol with XOR checksums, double-buffered ISR reception, and ACK/retry logic for <1 ms wire-time transmission.
+> **Tech:** C, FreeRTOS, SPI, I2C, UART, ARM Cortex-M
 
-### [🔹 Embedded Systems Battleship Game](https://github.com/mrinankpanda/embedbattleship)
-* Designed and implemented a two-player embedded Battleship game on **networked microcontrollers** with **IMU/joystick-driven real-time gameplay**, **coordinated peripheral control**, and a **robust packet-based IPC protocol (checksums, ACKs, retransmission)** enabling synchronized, fault-tolerant turn-based play.
-> **Tech:** C, FreeRTOS, ARM Cortex-M, SPI, Real Time System Design
+### [🔹 emailgist](https://github.com/mrinankpanda/emailgist)
+*An AI email summarization platform that compressed business emails by roughly 60% while preserving key action items and details, achieving a ROUGE-L F1 score of 80.9%.*
+* Fine-tuned BART/T5 models on a 500K+ business email dataset and leveraged spaCy NER for entity recognition.
+> **Tech:** Python, React, FastAPI, HuggingFace Transformers, spaCy NER
+
 ---
 
 ## 📊 GitHub Activity Graph
